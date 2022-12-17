@@ -1,0 +1,13 @@
+C:\Users\10080452\source\repos\WindowsForms\ERP\bin\Debug\ERP.exe.config
+C:\Users\10080452\source\repos\WindowsForms\ERP\bin\Debug\ERP.exe
+C:\Users\10080452\source\repos\WindowsForms\ERP\bin\Debug\ERP.pdb
+C:\Users\10080452\source\repos\WindowsForms\ERP\obj\Debug\ERP.csproj.AssemblyReference.cache
+C:\Users\10080452\source\repos\WindowsForms\ERP\obj\Debug\ERP.csproj.SuggestedBindingRedirects.cache
+C:\Users\10080452\source\repos\WindowsForms\ERP\obj\Debug\ERP.Form2.resources
+C:\Users\10080452\source\repos\WindowsForms\ERP\obj\Debug\ERP.Properties.Resources.resources
+C:\Users\10080452\source\repos\WindowsForms\ERP\obj\Debug\ERP.csproj.GenerateResource.cache
+C:\Users\10080452\source\repos\WindowsForms\ERP\obj\Debug\ERP.csproj.CoreCompileInputs.cache
+C:\Users\10080452\source\repos\WindowsForms\ERP\obj\Debug\ERP.exe
+C:\Users\10080452\source\repos\WindowsForms\ERP\obj\Debug\ERP.pdb
+C:\Users\10080452\source\repos\WindowsForms\ERP\obj\Debug\ERP.frmAdicionar.resources
+C:\Users\10080452\source\repos\WindowsForms\ERP\obj\Debug\ERP.FrmMain.resources
